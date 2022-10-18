@@ -1,0 +1,15 @@
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\bin\Debug\net6.0\Observer.exe
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\bin\Debug\net6.0\Observer.deps.json
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\bin\Debug\net6.0\Observer.runtimeconfig.json
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\bin\Debug\net6.0\Observer.dll
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\bin\Debug\net6.0\Observer.pdb
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.csproj.AssemblyReference.cache
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.AssemblyInfoInputs.cache
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.AssemblyInfo.cs
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.csproj.CoreCompileInputs.cache
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.dll
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\refint\Observer.dll
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.pdb
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.genruntimeconfig.cache
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\ref\Observer.dll

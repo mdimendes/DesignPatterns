@@ -1,0 +1,15 @@
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\obj\Debug\net6.0\Command.csproj.AssemblyReference.cache
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\bin\Debug\net6.0\Command.exe
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\bin\Debug\net6.0\Command.deps.json
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\bin\Debug\net6.0\Command.dll
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\bin\Debug\net6.0\Command.pdb
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\obj\Debug\net6.0\Command.dll
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\obj\Debug\net6.0\refint\Command.dll
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\obj\Debug\net6.0\Command.pdb
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+C:\Repos\Studies\DesignPatterns\DesignPatterns\Command\obj\Debug\net6.0\ref\Command.dll
